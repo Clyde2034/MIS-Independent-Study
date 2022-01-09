@@ -1,6 +1,6 @@
-# National Pintung University - Department of Information Management
+# National Pintung University - Department of Information Management - Independent Study
 
-The Project is used to reservation the clinic with WEB and Application
+The Project is used to reservation the dental clinic with WEB and Application
 
 >Development Tools
 >>Visual Studio 2019 - ASP.NET  
