@@ -15,7 +15,7 @@ The Project is used to reservation the dental clinic with WEB and Application
 >>HTML、CSS  
 >>Java Scripts、Jquery  
 >>C#  
->>Internet Hnowledge  
+>>Internet Basic Concept  
 >>Softwat as a Services  
 >>JDBC API between SQL Server and Android Studio  
 >>Synchronization the database  
